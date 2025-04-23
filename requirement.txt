@@ -1,5 +1,5 @@
-python
-tensorflow
-pandas
-numpy
 streamlit
+tensorflow
+numpy
+pandas
+matplotlib
