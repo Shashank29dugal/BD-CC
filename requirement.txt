@@ -2,3 +2,4 @@ python
 tensorflow
 pandas
 numpy
+streamlit
